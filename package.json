@@ -10,6 +10,7 @@
     },
     "dependencies": {
         "next": "10.2.0",
+        "@netlify/plugin-nextjs": "3.1.1-experimental-odb.1",
         "react": "17.0.2",
         "react-dom": "17.0.2"
     }
